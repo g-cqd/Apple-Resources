@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>News.opml</title>
+	</head>
+<body>
+	<outline text="Developer Academy" title="Developer Academy" description="" type="rss" version="RSS" htmlUrl="https://www.developeracademy.unina.it/" xmlUrl="https://www.developeracademy.unina.it/en/feed/"/>
+	<outline text="Apps" title="Apps">
+		<outline text="Raycast Blog" title="Raycast Blog" description="" type="rss" version="RSS" htmlUrl="https://raycast.com/" xmlUrl="https://www.raycast.com/rss/feed.xml"/>
+		<outline text="Signal Blog" title="Signal Blog" description="" type="rss" version="RSS" htmlUrl="https://signal.org/blog/" xmlUrl="https://signal.org/blog/rss.xml"/>
+		<outline text="WebKit" title="WebKit" description="" type="rss" version="RSS" htmlUrl="https://webkit.org/" xmlUrl="https://webkit.org/feed/"/>
+	</outline>
+	<outline text="Design" title="Design">
+		<outline text="Displaay Type Foundry" title="Displaay Type Foundry" description="" type="rss" version="RSS" htmlUrl="https://displaay.net/" xmlUrl="https://displaay.net/feed/"/>
+		<outline text="Monotype. - Typography matters." title="Monotype. - Typography matters." description="" type="rss" version="RSS" htmlUrl="https://www.monotype.com/" xmlUrl="https://www.monotype.com/rss.xml"/>
+		<outline text="UX Collective - Medium" title="UX Collective - Medium" description="" type="rss" version="RSS" htmlUrl="https://uxdesign.cc?source=rss----138adf9c44c---4/" xmlUrl="https://uxdesign.cc/feed"/>
+	</outline>
+	<outline text="Misc" title="Misc">
+		<outline text="Chromium Blog" title="Chromium Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.chromium.org/" xmlUrl="https://blog.chromium.org/feeds/posts/default"/>
+        <outline text="Daring Fireball" title="Daring Fireball" description="" type="rss" version="RSS" htmlUrl="https://daringfireball.net/" xmlUrl="https://daringfireball.net/feeds/json"/>
+        <outline text="Guillermo Rambo" title="Guillermo Rambo" description="" type="rss" version="RSS" htmlUrl="https://rambo.codes/" xmlUrl="https://rambo.codes/feed.rss"/>
+		<outline text="It's FOSS" title="It's FOSS" description="" type="rss" version="RSS" htmlUrl="https://itsfoss.com/" xmlUrl="https://feeds.feedburner.com/ItsFoss"/>
+		<outline text="MIT Technology Review" title="MIT Technology Review" description="" type="rss" version="RSS" htmlUrl="https://www.technologyreview.com/" xmlUrl="https://www.technologyreview.com/feed/"/>
+		<outline text="Mozilla Hacks – the Web developer blog" title="Mozilla Hacks – the Web developer blog" description="" type="rss" version="RSS" htmlUrl="https://hacks.mozilla.org/" xmlUrl="https://hacks.mozilla.org/feed/"/>
+		<outline text="Opensource.com" title="Opensource.com" description="" type="rss" version="RSS" htmlUrl="https://opensource.com/" xmlUrl="https://opensource.com/rss.xml"/>
+		<outline text="The Cloudflare Blog" title="The Cloudflare Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.cloudflare.com/" xmlUrl="https://blog.cloudflare.com/rss/"/>
+		<outline text="The Information" title="The Information" description="" type="rss" version="RSS" htmlUrl="https://www.theinformation.com/" xmlUrl="https://www.theinformation.com/feed"/>
+		<outline text="The Markup" title="The Markup" description="" type="rss" version="RSS" htmlUrl="https://themarkup.org/" xmlUrl="https://themarkup.org/feeds/rss.xml"/>
+        <outline text="XS Labs" title="XS Labs" description="" type="rss" version="RSS" htmlUrl="https://xs-labs.com/" xmlUrl="https://xs-labs.com/feed/rss.php"/>
+
+	</outline>
+	<outline text="Security" title="Security">
+        <outline text="Bruce Schneier" title="Bruce Schneier" description="" type="rss" version="RSS" htmlUrl="https://www.schneier.com" xmlUrl="https://www.schneier.com/feed/">
+		<outline text="evilsocket" title="evilsocket" description="" type="rss" version="RSS" htmlUrl="https://www.evilsocket.net" xmlUrl="https://www.evilsocket.net/atom.xml"/>
+		<outline text="MalwareBytes Blog" title="Wojciech Reguła" description="" type="rss" version="RSS" htmlUrl="https://www.malwarebytes.com/blog/" xmlUrl="https://www.malwarebytes.com/blog/feed/index.xml"/>
+		<outline text="Objective-See's Blog" title="Objective-See's Blog" description="" type="rss" version="RSS" htmlUrl="https://www.objective-see.com/" xmlUrl="https://objective-see.com/rss.xml"/>
+		<outline text="Project Zero" title="Project Zero" description="" type="rss" version="RSS" htmlUrl="https://googleprojectzero.blogspot.com/" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss"/>
+		<outline text="The Eclectic Light Company" title="The Eclectic Light Company" description="" type="rss" version="RSS" htmlUrl="https://eclecticlight.co/" xmlUrl="https://eclecticlight.co/feed/"/>
+		<outline text="The Hacker News" title="The Hacker News" description="" type="rss" version="RSS" htmlUrl="https://thehackernews.com/" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
+		<outline text="Wojciech Reguła" title="Wojciech Reguła" description="" type="rss" version="RSS" htmlUrl="https://wojciechregula.blog/" xmlUrl="https://wojciechregula.blog/rss.xml"/>
+	</outline>
+	<outline text="Swift" title="Swift">
+		<outline text="Alex Logan" title="Alex Logan" description="" type="rss" version="RSS" htmlUrl="https://www.alexanderlogan.co.uk/" xmlUrl="https://www.alexanderlogan.co.uk/rss/feed.xml"/>
+		<outline text="Awesome Swift Weekly" title="Awesome Swift Weekly" description="" type="rss" version="RSS" htmlUrl="https://swift.libhunt.com/newsletter" xmlUrl="https://swift.libhunt.com/newsletter/feed"/>
+		<outline text="Ben Scheirman" title="Ben Scheirman" description="" type="rss" version="RSS" htmlUrl="https://benscheirman.com/" xmlUrl="https://benscheirman.com/feed.xml"/>
+		<outline text="Cocoa with Love" title="Cocoa with Love" description="" type="rss" version="RSS" htmlUrl="https://www.cocoawithlove.com/" xmlUrl="https://www.cocoawithlove.com/feed.json"/>
+		<outline text="Daniel Munoz" title="Daniel Munoz" description="" type="rss" version="RSS" htmlUrl="https://danmunoz.com/" xmlUrl="https://danmunoz.com/rss/"/>
+		<outline text="Daniel Saidi" title="Daniel Saidi" description="" type="rss" version="RSS" htmlUrl="https://danielsaidi.com/blog" xmlUrl="https://danielsaidi.com/feed.xml"/>
+		<outline text="Danijela's blog" title="Danijela's blog" description="" type="rss" version="RSS" htmlUrl="https://www.danijelavrzan.com/" xmlUrl="https://www.danijelavrzan.com/feed.rss"/>
+		<outline text="Hacking with Swift" title="Hacking with Swift" description="" type="rss" version="RSS" htmlUrl="https://www.hackingwithswift.com/articles/rss" xmlUrl="https://www.hackingwithswift.com/articles/rss"/>
+		<outline text="iOS Dev Weekly" title="iOS Dev Weekly" description="" type="rss" version="RSS" htmlUrl="https://iosdevweekly.com/issues" xmlUrl="https://iosdevweekly.com/issues.rss"/>
+		<outline text="iOS development by tanaschita.com" title="iOS development by tanaschita.com" description="" type="rss" version="RSS" htmlUrl="https://tanaschita.com/" xmlUrl="https://tanaschita.com/rss.xml"/>
+		<outline text="Maggie Appleton" title="Maggie Appleton" description="" type="rss" version="RSS" htmlUrl="https://maggieappleton.com/" xmlUrl="https://maggieappleton.com/rss.xml"/>
+		<outline text="My Apple Chat" title="My Apple Chat" description="" type="rss" version="RSS" htmlUrl="https://myapplechat.com/" xmlUrl="https://myapplechat.com/feed/"/>
+		<outline text="Nil Coalescing" title="Nil Coalescing" description="" type="rss" version="RSS" htmlUrl="https://nilcoalescing.com/" xmlUrl="https://nilcoalescing.com/feed.rss"/>
+		<outline text="Nonstrict" title="Nonstrict" description="" type="rss" version="RSS" htmlUrl="https://nonstrict.eu/" xmlUrl="https://nonstrict.eu/feed.rss"/>
+		<outline text="Oscar Franco" title="Oscar Franco" description="" type="rss" version="RSS" htmlUrl="https://ospfranco.com/" xmlUrl="https://ospfranco.com/feed"/>
+		<outline text="Peter Friese" title="Peter Friese" description="" type="rss" version="RSS" htmlUrl="https://peterfriese.dev/" xmlUrl="https://peterfriese.dev/rss.xml"/>
+		<outline text="Scott Smith Dev" title="Scott Smith Dev" description="" type="rss" version="RSS" htmlUrl="https://scottsmithdev.com/" xmlUrl="https://scottsmithdev.com/rss.xml"/>
+		<outline text="SerialCoder.dev" title="SerialCoder.dev" description="" type="rss" version="RSS" htmlUrl="https://serialcoder.dev/" xmlUrl="https://serialcoder.dev/feed/"/>
+		<outline text="Stories by Chase on Medium" title="Stories by Chase on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@jpmtech?source=rss-940b7d9329f2------2" xmlUrl="https://medium.com/feed/@jpmtech"/>
+		<outline text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" description="" type="rss" version="RSS" htmlUrl="https://stratechery.com/" xmlUrl="https://stratechery.com/feed/"/>
+		<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" description="" type="rss" version="RSS" htmlUrl="https://developer.apple.com/swift/blog/" xmlUrl="http://developer.apple.com/swift/blog/news.rss"/>
+		<outline text="Swift by Sundell" title="Swift by Sundell" description="" type="rss" version="RSS" htmlUrl="https://www.swiftbysundell.com/" xmlUrl="https://swiftbysundell.com/rss"/>
+		<outline text="Swift Discovery" title="Swift Discovery" description="" type="rss" version="RSS" htmlUrl="https://swiftdiscovery.substack.com/" xmlUrl="https://swiftdiscovery.substack.com/feed"/>
+		<outline text="Swift on Medium" title="Swift on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/tag/swift/latest?source=rss------swift-5" xmlUrl="https://medium.com/feed/tag/swift"/>
+		<outline text="Swift Programming - Medium" title="Swift Programming - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/swift-programming?source=rss----5396e0e8bc29---4" xmlUrl="https://medium.com/feed/swift-programming"/>
+		<outline text="Swift Senpai" title="Swift Senpai" description="" type="rss" version="RSS" htmlUrl="https://swiftsenpai.com/" xmlUrl="https://swiftsenpai.com/feed/"/>
+		<outline text="Swift with Majid" title="Swift with Majid" description="" type="rss" version="RSS" htmlUrl="https://swiftwithmajid.com/" xmlUrl="https://mecid.github.io/feed.xml"/>
+		<outline text="Swift.org" title="Swift.org" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://swift.org/atom.xml"/>
+		<outline text="Swiftjective-C" title="Swiftjective-C" description="" type="rss" version="RSS" htmlUrl="https://swiftjectivec.com/" xmlUrl="https://www.swiftjectivec.com/feed.xml"/>
+		<outline text="SwiftLee" title="SwiftLee" description="" type="rss" version="RSS" htmlUrl="https://www.avanderlee.com/" xmlUrl="https://www.avanderlee.com/feed/"/>
+		<outline text="SwiftRocks" title="SwiftRocks" description="" type="rss" version="RSS" htmlUrl="https://swiftrocks.com/" xmlUrl="https://swiftrocks.com/rss.xml"/>
+		<outline text="SwiftUI Weekly" title="SwiftUI Weekly" description="" type="rss" version="RSS" htmlUrl="https://weekly.swiftwithmajid.com/" xmlUrl="https://weekly.swiftwithmajid.com/feed"/>
+		<outline text="Swifty Tech by Marco Eidinger" title="Swifty Tech by Marco Eidinger" description="" type="rss" version="RSS" htmlUrl="https://blog.eidinger.info/" xmlUrl="https://blog.eidinger.info/rss.xml"/>
+		<outline text="The SwiftUI Lab" title="The SwiftUI Lab" description="" type="rss" version="RSS" htmlUrl="https://swiftui-lab.com/" xmlUrl="https://swiftui-lab.com/feed/"/>
+		<outline text="Use Your Load - Keith Harrison" title="Use Your Loaf - Keith Harrison" description="" type="rss" version="RSS" htmlUrl="https://useyourloaf.com/blog/" xmlUrl="https://useyourloaf.com/blog/rss.xml" />
+		<outline text="Xcode Tips" title="Xcode Tips" description="" type="rss" version="RSS" htmlUrl="https://xcode.tips/" xmlUrl="https://xcode.tips/feed.xml"/>
+	</outline>
+	<outline text="Tools" title="Tools">
+		<outline text="Emerge Tools Blog" title="Emerge Tools Blog" description="" type="rss" version="RSS" htmlUrl="https://www.emergetools.com/blog" xmlUrl="https://www.emergetools.com/rss.xml"/>
+	</outline>
+	<outline text=" News" title=" News">
+		<outline text="9to5Mac" title="9to5Mac" description="" type="rss" version="RSS" htmlUrl="https://9to5mac.com/" xmlUrl="https://9to5mac.com/feed/"/>
+		<outline text="Ars Technica • " title="Ars Technica • " description="" type="rss" version="RSS" htmlUrl="https://arstechnica.com/" xmlUrl="http://feeds.arstechnica.com/arstechnica/apple"/>
+		<outline text="Cult of Mac" title="Cult of Mac" description="" type="rss" version="RSS" htmlUrl="https://www.cultofmac.com/" xmlUrl="https://www.cultofmac.com/feed/"/>
+		<outline text="MacGeneration | iGeneration | WatchGeneration" title="MacGeneration | iGeneration | WatchGeneration" description="" type="rss" version="RSS" htmlUrl="https://megaflux.macg.co/" xmlUrl="http://megaflux.macg.co/"/>
+		<outline text="MacRumors: Mac News and Rumors - All Stories" title="MacRumors: Mac News and Rumors - All Stories" description="" type="rss" version="RSS" htmlUrl="https://www.macrumors.com/" xmlUrl="http://feeds.macrumors.com/MacRumors-All"/>
+		<outline text="MacStories" title="MacStories" description="" type="rss" version="RSS" htmlUrl="https://www.macstories.net/" xmlUrl="https://www.macstories.net/feed/"/>
+		<outline text="TechCrunch" title="TechCrunch" description="" type="rss" version="RSS" htmlUrl="https://techcrunch.com/" xmlUrl="https://techcrunch.com/feed/"/>
+		<outline text="The Verge" title="The Verge" description="" type="rss" version="RSS" htmlUrl="https://www.theverge.com/" xmlUrl="http://www.theverge.com/rss/full.xml"/>
+		<outline text="Wired" title="Wired" description="" type="rss" version="RSS" htmlUrl="https://www.wired.com/" xmlUrl="http://feeds.wired.com/wired/index"/>
+		<outline text=" Newsroom" title=" Newsroom" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.apple.com/fr/newsroom/rss-feed.rss"/>
+	</outline>
+	</body>
+</opml>
